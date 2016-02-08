@@ -76,7 +76,7 @@ msgid "Edit"
 msgstr ""
 
 #: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\oblique/content.php:47
-msgid "Continue reading &hellip;"
+msgid "Continue lendo &hellip;"
 msgstr ""
 
 #: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\oblique/footer.php:19
